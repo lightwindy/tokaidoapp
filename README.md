@@ -30,4 +30,5 @@ When first cloning this repo, be sure to run the following:
     open Tokaido.xcworkspace
 
 You should then be able to build and run Tokaido in Xcode.
+
 ![alt tag](https://cloud.githubusercontent.com/assets/13757073/18623865/ea41b6b6-7df6-11e6-9d6e-f9e65372fc90.gif)
